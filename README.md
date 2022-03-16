@@ -30,7 +30,7 @@
 <hr>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niks14041&show_icons=true&locale=en&layout=compact" alt="niks14041" /></p>
-<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niks14041&show_icons=true&locale=en" alt="niks14041" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niks14041&" alt="niks14041" /></p>
