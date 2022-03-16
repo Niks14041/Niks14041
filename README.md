@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mohale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p><strong>I am highly skilled in Frontend as well as Background technology such as JavaScipt, HTML, CSS and MERN stack<strong/><p/>
+<p><strong>I am highly skilled in Frontend as well as Backend technologies such as JavaScipt, HTML, CSS and MERN stack<strong/><p/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niks14041&label=Profile%20views&color=0e75b6&style=flat" alt="niks14041" /> </p>
 
