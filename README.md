@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **nkhil14041@gmial.com**
   
-- 👨‍💻 All of my projects are available at [https://portfolio-a6g2t3uc6-niks14041.vercel.app/](https://portfolio-a6g2t3uc6-niks14041.vercel.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-a6g2t3uc6-niks14041.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eupdTVkG8NbMPXXNRpTqjZewH4B8hZvp/view?usp=sharing](https://drive.google.com/file/d/1eupdTVkG8NbMPXXNRpTqjZewH4B8hZvp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eupdTVkG8NbMPXXNRpTqjZewH4B8hZvp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
