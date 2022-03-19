@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript,HTML,CSS,MERN**
 
-- 📫 How to reach me **nkhil14041@gmial.com**
+- 📫 How to reach me - **nkhil14041@gmial.com**
   
 - 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-a6g2t3uc6-niks14041.vercel.app/)
 
